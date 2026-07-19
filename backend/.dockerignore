@@ -1,0 +1,12 @@
+node_modules
+.env
+uploads/*.glb
+uploads/*.pdf
+uploads/*.csv
+uploads/*.xlsx
+uploads/*.dxf
+uploads/*.png
+uploads/*.jpg
+uploads/*.jpeg
+.git
+dist
